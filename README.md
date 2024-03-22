@@ -28,7 +28,3 @@ Para embasar as consultas SQL, algumas perguntas relevantes foram identificadas:
 - **construindo_primeiro_projeto_logico_bd.sql**: Script SQL contendo a criação do esquema do banco de dados, incluindo tabelas, chaves primárias, estrangeiras e constraints.
 - **queries.sql**: Arquivo contendo queries SQL para realizar operações de consulta conforme as perguntas especificadas.
 
-## **Como Executar**
-
-1. Execute o script **`construindo_primeiro_projeto_logico_bd.sql`** para criar o esquema do banco de dados.
-2. Execute as queries contidas no arquivo **`queries.sql`** para realizar operações de consulta conforme necessário.
